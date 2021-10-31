@@ -1,4 +1,4 @@
-<a href="https://github.com/kyoF">Welcome to My Github Page!</a>
+<h3>Welcome to My Github Page!</h3>
 
 <p align="left">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kyoF&count_private=true&show_icons=true&show_icons=true&theme=dark" />
